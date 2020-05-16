@@ -1,4 +1,4 @@
-# CompetitiveProblemSolutions
+# Competitive Problem Solutions Index
 
 ### DataStructures
 ##### [LinkedList](/DataStructures/LinkedList)
