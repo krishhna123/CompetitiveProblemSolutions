@@ -11,4 +11,4 @@
 ### Problems:
 - [LeetCode Problems](/LeetCode/Problems)
 - [Leetcode Challenges](/LeetCode/Challenges)
-[Coprime Numbers](/Hackerearth/Fights/CoPrimeNumber.java)
+ [Coprime Numbers](/Hackerearth/Fights/CoPrimeNumber.java)
