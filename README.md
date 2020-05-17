@@ -9,4 +9,6 @@
 - [Good node count in binary tree](/DataStructures/binaryTree/CountGoodNodeinBT.java)
 
 ### Problems:
+-[LeetCode Problems](/LeetCode/Problems)
+-[Leetcode Challenges](/LeetCode/Challenges)
 [Coprime Numbers](/Hackerearth/Fights/CoPrimeNumber.java)
