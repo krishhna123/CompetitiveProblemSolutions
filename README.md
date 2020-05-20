@@ -7,6 +7,7 @@
 
 #### [BinaryTree](/DataStructures/binaryTree)
 - [Good node count in binary tree](/DataStructures/binaryTree/CountGoodNodeinBT.java)
+- [Inorder Traversal Kth smallest element](/LeetCode/Challenges/May20_InorderTranversal_findKthElement.java)
 
 ### Problems:
 - [LeetCode Problems](/LeetCode/Problems)
