@@ -8,6 +8,7 @@
 #### [BinaryTree](/DataStructures/binaryTree)
 - [Good node count in binary tree](/DataStructures/binaryTree/CountGoodNodeinBT.java)
 - [Inorder Traversal Kth smallest element](/LeetCode/Challenges/May20_InorderTranversal_findKthElement.java)
+- [Find all path value of binary tree from root to leaf](/DataStructures/binaryTree/StorePathValueOfTree.java)
 
 ### Problems:
 - [LeetCode Problems](/LeetCode/Problems)
